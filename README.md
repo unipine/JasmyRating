@@ -3,7 +3,7 @@
 __Projects Goal:__ Creating reviews decentralized application which puts the reviews on the blockchain, making them unchangeable.  <br />
 <br />
 
-![front_page](/imgs/Whole_site.png)
+![front_page](/imgs/front_pg.png)
 ---
 ### General info:
 ---
