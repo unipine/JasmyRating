@@ -28,7 +28,6 @@ Actions that require generating a new block in the blockcahin (like editing prof
 Node.js: <br />
 https://nodejs.org/en/download/ <br />
 
-<br />
 Truffle:
 
 ```
