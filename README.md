@@ -24,15 +24,16 @@ Actions that require generating a new block in the blockcahin (like editing prof
 
 ---
 ### installs:
+
+Node.js: <br />
+https://nodejs.org/en/download/ <br />
+
 <br />
 Truffle:
 
 ```
 npm install –g truffle
 ```
-
-Node.js: <br />
-https://nodejs.org/en/download/ <br />
 
 Ganache: <br />
 https://www.trufflesuite.com/ganache <br />
