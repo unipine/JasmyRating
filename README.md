@@ -1,5 +1,3 @@
-made by [Dimnir](https://github.com/Dimnir),  [MishelK](https://github.com/MishelK) <br />
-
 ### Overview:
 
 __Goals:__ Creating reviews decentralized application which puts the reviews on the blockchain, making them unchangeable.  <br />
@@ -42,4 +40,6 @@ https://www.trufflesuite.com/ganache <br />
 MetaMask: <br />
 https://metamask.io/download <br />
 
+
+made by [Dimnir](https://github.com/Dimnir),  [MishelK](https://github.com/MishelK) <br />
 
