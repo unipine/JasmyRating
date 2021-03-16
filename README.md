@@ -1,3 +1,5 @@
+made by ['Dimnir'](https://github.com/Dimnir),  ['MishelK'](https://github.com/MishelK) <br />
+
 ### Overview:
 
 __Goals:__ Creating reviews decentralized application which puts the reviews on the blockchain, making them unchangeable.  <br />
