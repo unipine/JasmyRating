@@ -17,6 +17,8 @@ Main 2 files in this project are `Reviews.sol` and `App.js`:   <br />
 - `Reviews.sol`: The smart contract, written in Solidity, contains all the logic of the app. <br />
 - `App.js`: The front end. using react, html, and web3, connects the smart contract with the app. <br />
 
+
+Actions that require generating a new block in the blockcahin (like editing profile or leaving a review) will require a payment using the MetaMask wallet.
 ---
 ### installs:
 <br />
@@ -31,3 +33,8 @@ https://nodejs.org/en/download/ <br />
 
 Ganache: <br />
 https://www.trufflesuite.com/ganache <br />
+
+MetaMask: <br />
+https://metamask.io/download <br />
+
+
