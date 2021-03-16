@@ -40,6 +40,7 @@ https://www.trufflesuite.com/ganache <br />
 MetaMask: <br />
 https://metamask.io/download <br />
 
+---
 
 made by [Dimnir](https://github.com/Dimnir),  [MishelK](https://github.com/MishelK) <br />
 
