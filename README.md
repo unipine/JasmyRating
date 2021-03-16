@@ -19,6 +19,9 @@ Main 2 files in this project are `Reviews.sol` and `App.js`:   <br />
 
 
 Actions that require generating a new block in the blockcahin (like editing profile or leaving a review) will require a payment using the MetaMask wallet.
+
+![metamask](/imgs/metamask.PNG) <br />
+
 ---
 ### installs:
 <br />
