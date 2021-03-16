@@ -19,11 +19,14 @@ Main 2 files in this project are `Reviews.sol` and `App.js`: <br />
 ---
 ### installs:
 <br />
-Truffle - 
+Truffle:
 
 ```
 npm install –g truffle
 ```
 
-Node.js - https://nodejs.org/en/download/ <br />
-Ganache - https://www.trufflesuite.com/ganache <br />
+Node.js: <br />
+https://nodejs.org/en/download/ <br />
+
+Ganache: <br />
+https://www.trufflesuite.com/ganache <br />
