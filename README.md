@@ -4,7 +4,7 @@ __Projects Goal:__ Creating reviews decentralized application which puts the rev
 <br />
 
 ![front_page](/imgs/front_pg.png) <br />
---- <br />
+---
 ### General info: <br />
 
 <br />
@@ -18,6 +18,6 @@ Main 2 files in this project are `Reviews.sol` and `App.js`: <br />
 
 ### installs:
 <br />
-Truffle - ` npm install –g truffle ` <br />
+Truffle - `npm install –g truffle` <br />
 Node.js - https://nodejs.org/en/download/ <br />
 Ganache - https://www.trufflesuite.com/ganache <br />
