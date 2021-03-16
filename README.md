@@ -11,7 +11,7 @@ __Projects Goal:__ Creating reviews decentralized application which puts the rev
 Users can make a profile, find another profiles, and review other profiles. <br />
 Each profile contains a description of the profile (type of services that the profile is offering). <br />
 Find profiles by searching their public key. Then its possible to read all the reviews that other users left, or review the profile. <br />
- 
+ <br />
 Main 2 files in this project are `Reviews.sol` and `App.js`: <br />
 - `Reviews.sol`: The smart contract, written in Solidity, contains all the logic of the app. <br />
 - `App.js`: The front end. using react, html, and web3, connects the smart contract with the app. <br />
