@@ -16,9 +16,12 @@ Main 2 files in this project are `Reviews.sol` and `App.js`: <br />
 - `Reviews.sol`: The smart contract, written in Solidity, contains all the logic of the app. <br />
 - `App.js`: The front end. using react, html, and web3, connects the smart contract with the app. <br />
 
+---
 ### installs:
 <br />
 Truffle - 
-`npm install –g truffle` <br />
+```
+npm install –g truffle
+```
 Node.js - https://nodejs.org/en/download/ <br />
 Ganache - https://www.trufflesuite.com/ganache <br />
