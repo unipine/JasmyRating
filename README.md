@@ -23,7 +23,7 @@ Actions that require generating a new block in the blockcahin (like editing prof
 ![metamask](/imgs/metamask.PNG) <br />
 
 ---
-### installs:
+### installs: (Node.js and Truffle for the code, Ganache for the blockchain and MetaMask for connecting accounts to the app)
 
 Node.js: <br />
 https://nodejs.org/en/download/ <br />
