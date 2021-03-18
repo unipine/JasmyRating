@@ -1,6 +1,6 @@
 ### Overview:
 
-__Goals:__ Creating reviews decentralized application which puts the reviews on the blockchain, making them unchangeable.  <br />
+__Goals:__ Creating reviews decentralized Ethereum application which puts the reviews on a blockchain, making them unchangeable.  <br />
 <br />
 
 ![front_page](/imgs/front_pg.png) <br />
